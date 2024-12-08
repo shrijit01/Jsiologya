@@ -1,0 +1,21 @@
+package revamp;
+
+public class patterns {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("SHRI RADHE RADHE");
+	/*  *****
+		*****
+		*****
+		*****
+		*****
+		***** */
+		
+		int num = 5;
+//		int j = 5;
+		for(int i = 0; i < num ; num++) {
+			
+		}
+	}
+}

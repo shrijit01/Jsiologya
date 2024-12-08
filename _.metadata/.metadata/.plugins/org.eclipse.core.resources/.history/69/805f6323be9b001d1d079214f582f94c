@@ -1,0 +1,15 @@
+package Lecture22Stack;
+
+public class BasicOperationINStack2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//understanding basic operation in stack 
+		
+//		push(10);
+//		size();
+//		top();
+//		pop();
+	}
+
+}

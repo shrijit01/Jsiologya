@@ -1,0 +1,18 @@
+package Lecture22Stack;
+
+public class StackUse3 {
+
+	public static void main(String[] args) throws StackFullException, StackEmptyException {
+		// TODO Auto-generated method stub
+		
+		StackUsingArray3 stack = new StackUsingArray3();
+		
+		stack.push(10);
+		System.out.println(stack.top());
+		stack.pop();
+		stack.size();
+		stack.isEmpty();
+		
+	}
+
+}

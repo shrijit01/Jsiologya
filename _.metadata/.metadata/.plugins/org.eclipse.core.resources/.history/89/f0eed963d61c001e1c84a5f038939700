@@ -1,0 +1,7 @@
+package HowIsDataStored;
+
+public class characterStore {
+	public static void main(String[] args) {
+		
+	}
+}

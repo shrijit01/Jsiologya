@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Array10&apos; to &apos;TwoDArray10&apos;&#x0D;&#x0A;- Original project: &apos;Revise&apos;&#x0D;&#x0A;- Original element: &apos;Revise/src/Array10&apos;&#x0D;&#x0A;- Renamed element: &apos;Revise/src/TwoDArray10&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Array10&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Array10" name="TwoDArray10" qualified="false" references="true" stamp="1691606475187" textual="false" version="1.0"/>
+</session>

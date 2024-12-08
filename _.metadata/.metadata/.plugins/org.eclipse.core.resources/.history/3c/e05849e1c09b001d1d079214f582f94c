@@ -1,0 +1,37 @@
+package Lecture22Stack;
+//stack using array code 4 is written here 
+public class StackUsingArray3 {
+	
+	
+	private int data[];
+	private int topIndex;	// index of the top most elem of the stack
+	
+	public StackUsingArray3() {
+		data = new int[10];
+		topIndex = -1;
+	}
+	
+	public void size() {
+		
+	}
+	
+	public boolean isEmpty() {
+		
+	}
+	
+	public void push(int elem) {
+		
+	}
+	
+	public void top() {
+		
+	}
+
+
+	public void pop() {
+	
+	}
+
+	
+	
+}
